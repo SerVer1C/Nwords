@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="Configuration.Nслов" id="be863b40-2acb-49e9-9961-75f5a878859a" configVersion="203572e4caf19f60523edc1739cf5bf723dda7d9"/>
+		<Metadata name="Configuration.Nслов" id="be863b40-2acb-49e9-9961-75f5a878859a" configVersion="63fc04d9a5d35998898903fa69765bb490ef43f7"/>
 		<Metadata name="DataProcessor.Помощник" id="f5dd3ef1-e96c-46aa-8360-4f50bcda97a3" configVersion="d04ff4a0a7def657c706d3b1da2e07894eb32425"/>
 		<Metadata name="DataProcessor.Помощник.Form.Форма" id="b8c66d0c-4367-4f5d-80da-92e24c365948" configVersion="c0e9bded187886b86ae58d87d8556c4ebe4d1603"/>
-		<Metadata name="DataProcessor.Помощник.Form.Форма.Form" id="b8c66d0c-4367-4f5d-80da-92e24c365948.0" configVersion="baeeb296cc8bc345f83188cdd8b994fae17e89ae"/>
+		<Metadata name="DataProcessor.Помощник.Form.Форма.Form" id="b8c66d0c-4367-4f5d-80da-92e24c365948.0" configVersion="34a3e1d960bacace6bd8faafd0737c5fbe116677"/>
 		<Metadata name="InformationRegister.Словарь" id="566129da-8813-467b-aa68-f3b9313b3e88" configVersion="c46272e094593dcd21e65fac815ff3ce3fd862e4">
 			<Metadata name="InformationRegister.Словарь.Dimension.Слово" id="0142aade-9387-4e41-a277-7cbe5b3e1e85"/>
 		</Metadata>
