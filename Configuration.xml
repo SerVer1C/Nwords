@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Nслов_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor>github.com/SerVer1C ; infostart.ru/profile/47774 ; infoserver1c.ru</Vendor>
-			<Version>1.1</Version>
+			<Version>1.2</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>

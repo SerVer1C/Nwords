@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="Configuration.Nслов" id="be863b40-2acb-49e9-9961-75f5a878859a" configVersion="63fc04d9a5d35998898903fa69765bb490ef43f7"/>
+		<Metadata name="Configuration.Nслов" id="be863b40-2acb-49e9-9961-75f5a878859a" configVersion="33b346444eaf79d89f2c2f321d2ee0bd51173da7"/>
 		<Metadata name="DataProcessor.Помощник" id="f5dd3ef1-e96c-46aa-8360-4f50bcda97a3" configVersion="d04ff4a0a7def657c706d3b1da2e07894eb32425"/>
 		<Metadata name="DataProcessor.Помощник.Form.Форма" id="b8c66d0c-4367-4f5d-80da-92e24c365948" configVersion="c0e9bded187886b86ae58d87d8556c4ebe4d1603"/>
-		<Metadata name="DataProcessor.Помощник.Form.Форма.Form" id="b8c66d0c-4367-4f5d-80da-92e24c365948.0" configVersion="34a3e1d960bacace6bd8faafd0737c5fbe116677"/>
+		<Metadata name="DataProcessor.Помощник.Form.Форма.Form" id="b8c66d0c-4367-4f5d-80da-92e24c365948.0" configVersion="a0253acee56dd6d863dfdd2fc8da9a389510c2d7"/>
 		<Metadata name="InformationRegister.Словарь" id="566129da-8813-467b-aa68-f3b9313b3e88" configVersion="c46272e094593dcd21e65fac815ff3ce3fd862e4">
 			<Metadata name="InformationRegister.Словарь.Dimension.Слово" id="0142aade-9387-4e41-a277-7cbe5b3e1e85"/>
 		</Metadata>
-		<Metadata name="Language.Русский" id="ff13f0c5-872c-461b-ab35-ea22c4500ea7" configVersion="d84e4d181c3674bebbe3f55cdc8c3a455d5ac228"/>
-		<Metadata name="Role.Nслов_ОсновнаяРоль" id="bea18e8c-e491-4c03-8b35-86a01cda7651" configVersion="cc60abf76ca672530a3b4ef660d620854788812d"/>
+		<Metadata name="Language.Русский" id="ff13f0c5-872c-461b-ab35-ea22c4500ea7" configVersion="152d0c253330439d4cb6714007fd407097d4972a"/>
+		<Metadata name="Role.Nслов_ОсновнаяРоль" id="bea18e8c-e491-4c03-8b35-86a01cda7651" configVersion="1de9ed629d9ce1c16c7653592bf7f10015c3e17f"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
